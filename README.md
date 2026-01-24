@@ -111,13 +111,6 @@ This will start:
 
 Open http://localhost:3000 for the frontend.
 
-### Running Tests
-
-Run backend tests:
-```bash
-cd backend
-php artisan test
-```
 
 ## Usage
 
